@@ -29,3 +29,5 @@ The evaluation metric chosen for this competition is the MSE (Mean Squared Error
 [Pandas](https://pandas.pydata.org/docs/)
 [Numpy](https://numpy.org/doc/)
 [Scikit-Learn](https://scikit-learn.org/stable/)
+[Pickle](https://docs.python.org/3/library/pickle.html)
+[Seaborn](https://seaborn.pydata.org/)
