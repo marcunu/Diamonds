@@ -4,7 +4,7 @@
 .vscode
 .env
 data
-02_Trainning.ipynb
+#02_Trainning.ipynb
 param
-03_Random_Forest.ipynb
+#03_Random_Forest.ipynb
 Submitions
